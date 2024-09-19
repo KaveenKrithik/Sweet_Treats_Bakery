@@ -28,7 +28,7 @@ JavaScript
 ScrollReveal.js (for animations)
 
 
-Preview of the webpage: 
+Preview of the website: 
 
 https://drive.google.com/drive/folders/1PnUFIpMWwmojMua64Q-yv8lvbbWw8wBY?usp=sharing
  
